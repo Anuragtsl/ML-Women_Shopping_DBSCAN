@@ -2,7 +2,7 @@
 
 I have created Machine Learning Model With DBSCAN for Women Shopping Prediction.
 
-In this I've used Python’s Famous libraries like [Numpy](), [Pandas](), [Matplotlib](), [Seaborn](), and [Sklearn]() for Analysis, Vizualization and Model Development.
+In this I've used Python’s Famous libraries like [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), and [Sklearn](https://scikit-learn.org/) for Analysis, Vizualization and Model Development.
 
 I've used [Jupyter Notebook](https://jupyter.org/) for coding!
 
