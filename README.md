@@ -25,15 +25,15 @@ With tightly setting, we found that "Cluster 3 (average age: 32)" which highest 
 ***This analysis is only focus on women. Maybe men have a little difference insight. Please try to find it, and share with me!***
 
 
-***Follow [notebook]() for more!!***
+***Follow [notebook](https://github.com/Anuragtsl/ML-Women_Shopping_DBSCAN/blob/main/Women%20Shopping%20DBSCAN.ipynb) for more!!***
 
 # Preview
 
-![Image1]()
+![Image1](https://github.com/Anuragtsl/ML-Women_Shopping_DBSCAN/blob/main/Images/1.png)
 
-![Image2]()
+![Image2](https://github.com/Anuragtsl/ML-Women_Shopping_DBSCAN/blob/main/Images/2.png)
 
-![Image3]()
+![Image3](https://github.com/Anuragtsl/ML-Women_Shopping_DBSCAN/blob/main/Images/3.png)
 
 
 #Njoy!
